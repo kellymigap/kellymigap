@@ -1,4 +1,13 @@
-## Hi there 👋
+## Kelly Migap
+
+DevOps Cloud Engineer| Trainer & Mentor @afriktech
+
+## Mission 
+
+## About Me
+
+## Skills
+
 
 <!--
 **kellymigap/kellymigap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
